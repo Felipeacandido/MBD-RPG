@@ -23,7 +23,9 @@ Em um mundo de fantasia, habitado por uma variedade de raças, criaturas e heró
      - Experiência
      - Pontos de Vida
      - Pontos de Mana
+     - Habilidades (multivalorado)
      - Localização (Composto: latitude e longitude)
+       
 
 3. **Entidade: Missão**
    - Atributos:
