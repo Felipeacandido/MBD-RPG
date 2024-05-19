@@ -75,7 +75,7 @@ Em um mundo de fantasia, habitado por uma variedade de raças, criaturas e heró
 - **Personagem (N) : Item (N)**
   - Um personagem pode possuir vários itens e um item pode estar em posse de vários personagens.
 
-Este sistema de banco de dados permite uma gestão eficaz dos jogadores, seus personagens, suas interações com missões e outros jogadores em grupos, bem como o inventário de itens. Através dessas entidades, atributos e relacionamentos, o mundo do RPG é trazido à vida, proporcionando uma experiência imersiva para os jogadores explorarem e desfrutarem.
+Este sistema de banco de dados permite uma gestão eficaz dos jogadores, seus personagens, suas interações com missões e outros jogadores em grupos, bem como o inventário de itens.
 
 ## 2 - Modelagem Conceitual
 <br>
