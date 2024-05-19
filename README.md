@@ -243,6 +243,14 @@ CRUD é um acrônimo para as operações básicas de gestão de dados em qualque
 
 **1-Create**
 Adcionar Dados as tabelas.
+~~~sql
+INSERT INTO Jogador (Nome, Email, Senha, Data_de_Registro, Nivel) VALUES
+('Danoone','noonefps@gmail.com','123321','2003-03-28', 1),
+('Alice' ,'alice@example.com','alicepass','2022-01-01', 2),
+('Bob','bob@example.com','bobpass','2022-02-02', 3),
+('Carol','carol@example.com','carolpass','2022-03-03', 4),
+('Dave','dave@example.com','davepass','2022-04-04', 5);
+~~~
 ![Create](https://github.com/Felipeacandido/MBD-RPG/assets/161148912/e0dfd956-1bd1-4867-853c-193e86c71c4e)
 
 
